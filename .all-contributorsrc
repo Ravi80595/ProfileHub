@@ -1,0 +1,174 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "dinxsh",
+      "name": "Dinesh Talwadker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90450035?v=4",
+      "ScreenShot": "https://raw.githubusercontent.com/recodehive/awesome-github-profiles/main/screenshots/dinxsh.png",
+      "profile": "https://github.com/dinxsh",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "MastanSayyad",
+      "name": "Mastan Sayyad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101971980?v=4",
+      "profile": "https://github.com/MastanSayyad",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "sanjay-kv",
+      "name": "Sanjay Viswanathan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30715153?v=4",
+      "ScreenShot": "https://raw.githubusercontent.com/nishant0708/awesome-github-profiles/main/screenshots/sanjay-kv.png",
+      "profile": "https://recodehive.com",
+      "contributions": [
+        "maintenance",
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "vishanurag",
+      "name": "ANURAG VISHWAKARMA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126074487?v=4",
+      "profile": "http://vcma.rf.gd/Portfolio/",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "thevijayshankersharma",
+      "name": "Vijay Shanker Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109781385?v=4",
+      "profile": "https://github.com/thevijayshankersharma",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "nishant0708",
+      "name": "Nishant Kaushal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101548649?v=4",
+      "profile": "https://github.com/nishant0708",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "RadhikaMalpani1702",
+      "name": "Radhika Malpani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163530398?v=4",
+      "profile": "https://github.com/RadhikaMalpani1702",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "yashksaini-coder",
+      "name": "Yash Kumar Saini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115717039?v=4",
+      "profile": "https://github.com/yashksaini-coder",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "Asymtode712",
+      "name": "Siddheya Kulkarni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115717746?v=4",
+      "profile": "https://github.com/Asymtode712",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "vansh-codes",
+      "name": "Vansh Chaurasiya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114163734?v=4",
+      "profile": "https://github.com/vansh-codes",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "vivekvardhan2810",
+      "name": "Vivek Vardhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91594529?v=4",
+      "profile": "https://github.com/vivekvardhan2810",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "yashwanths814",
+      "name": "Yashwanth S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123622523?v=4",
+      "profile": "https://linktr.ee/yashwanths814",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "Meetjain1",
+      "name": "Meet Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/133582566?v=4",
+      "profile": "https://github.com/Meetjain1",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "RamakrushnaBiswal",
+      "name": "Ramakrushna Biswal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125277258?v=4",
+      "profile": "https://github.com/RamakrushnaBiswal",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "Hemu21",
+      "name": "Hemanth kumar ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106808387?v=4",
+      "profile": "https://github.com/Hemu21",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "Anjaliavv51",
+      "name": "Lakshmi Pavananjali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/154777864?v=4",
+      "profile": "https://bento.me/anjali-pamidi",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "dhruv8433",
+      "name": "Soni Dhruv",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114583978?v=4",
+      "profile": "http://dhruvsoni.vercel.app",
+      "contributions": [
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "awesome-github-profiles",
+  "projectOwner": "recodehive"
+}
