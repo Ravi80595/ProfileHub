@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Github Profiles</h1>
+<h1 align="center">Profile Hub</h1>
 
 <div align="center">
   
@@ -16,7 +16,7 @@ This is the all in one place of awesome-github-profiles.
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dinxsh"><img src="https://avatars.githubusercontent.com/u/90450035?v=4?s=100" width="100px;" alt="Dinesh Talwadker"/><br /><sub><b>Dinesh Talwadker</b></sub></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3Adinxsh" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ravi80595"><img src="https://avatars.githubusercontent.com/u/90450035?v=4?s=100" width="100px;" alt="Ravi Sharma"/><br /><sub><b>Ravi Sharma</b></sub></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3Adinxsh" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/MastanSayyad"><img src="https://avatars.githubusercontent.com/u/101971980?v=4?s=100" width="100px;" alt="Mastan Sayyad"/><br /><sub><b>Mastan Sayyad</b></sub></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3AMastanSayyad" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://recodehive.com"><img src="https://avatars.githubusercontent.com/u/30715153?v=4?s=100" width="100px;" alt="Sanjay Viswanathan"/><br /><sub><b>Sanjay Viswanathan</b></sub></a><br /><a href="#maintenance-sanjay-kv" title="Maintenance">🚧</a> <a href="https://github.com/recodehive/awesome-github-profiles/commits?author=sanjay-kv" title="Code">💻</a> <a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3Asanjay-kv" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://vcma.rf.gd/Portfolio/"><img src="https://avatars.githubusercontent.com/u/126074487?v=4?s=100" width="100px;" alt="ANURAG VISHWAKARMA"/><br /><sub><b>ANURAG VISHWAKARMA</b></sub></a><br /><a href="https://github.com/recodehive/awesome-github-profiles/pulls?q=is%3Apr+reviewed-by%3Avishanurag" title="Reviewed Pull Requests">👀</a></td>
@@ -82,5 +82,3 @@ This is the all in one place of awesome-github-profiles.
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
 
-## Special Thanks 🙇
-- [Dinesh Talwadker](https://github.com/dinxsh) [Hemant](https://github.com/dinxsh), [Nishant](https://github.com/dinxsh), [Ayushman](https://github.com/dinxsh)for being a core for this repo!
